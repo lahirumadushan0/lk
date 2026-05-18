@@ -10,7 +10,7 @@ document
     e.preventDefault();
 
     emailjs.sendForm(
-        "service_e3tdss2",
+        "service_dpg0npt",
         "template_of1v0b9",
         this
     )
